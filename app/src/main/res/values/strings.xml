@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="item_details">View Item Details</string>
+    <string name="delete">Delete</string>
+    <string name="purchased">Purchased</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_type">Item Type:</string>
+    <string name="price">Price</string>
+    <string name="item_description">Item Description</string>
+    <string name="already_purchased">Already Purchased</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete_list">Delete List</string>
+    <string name="name_error">Please enter a name.</string>
+    <string name="price_error">Please enter a price.</string>
+    <string name="description_error">Please enter a description.</string>
+    <string name="clothes">Clothes</string>
+    <string name="food">Food</string>
+    <string name="appliances">Appliances</string>
+    <string name="item_cancelled">New item was cancelled</string>
+    <string name="edit">Edit</string>
+    <string name="new_item">New item was created</string>
+    <string name="item_edit">Shopping Item Edited</string>
+    <string name="low_battery_message">You\'re battery\'s low! Don\'t forget to buy all your groceries before your phone dies!</string>
+    <string-array name="item_types">
+        <item>Clothes</item>
+        <item>Food</item>
+        <item>Appliances</item>
+    </string-array>
+</resources>
